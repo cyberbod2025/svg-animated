@@ -1,0 +1,5 @@
+{
+  "name": "Splash Animation Generator",
+  "description": "An application to generate institutional splash screen animations. Users can specify logo details and animation styles, and the app uses Gemini to generate an animated SVG.",
+  "requestFramePermissions": []
+}
